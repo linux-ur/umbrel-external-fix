@@ -1,6 +1,4 @@
 #!/usr/bin/env bash
-# umbrel-storage-patch.sh — Enable external storage on any hardware
-# Usage: sudo bash umbrel-storage-patch.sh
 
 set -euo pipefail
 
